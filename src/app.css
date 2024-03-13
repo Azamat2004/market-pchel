@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../public/img/100.jpg'); /* Укажите путь к вашему изображению */
+    background-size: cover; /* Растягивать изображение на всю область */
+    background-repeat: no-repeat; /* Запретить повторение изображения */
+    font-family: Arial, sans-serif; /* Замените на ваш шрифт, если нужно */
+}
