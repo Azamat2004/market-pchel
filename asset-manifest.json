@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pchelka/static/css/main.3c8b8d3b.css",
-    "main.js": "/pchelka/static/js/main.6d444273.js",
+    "main.css": "/pchelka/static/css/main.bdf4e35d.css",
+    "main.js": "/pchelka/static/js/main.19132baa.js",
     "static/media/100.jpg": "/pchelka/static/media/100.9f36d0f9d8bff3303db9.jpg",
     "index.html": "/pchelka/index.html",
-    "main.3c8b8d3b.css.map": "/pchelka/static/css/main.3c8b8d3b.css.map",
-    "main.6d444273.js.map": "/pchelka/static/js/main.6d444273.js.map"
+    "main.bdf4e35d.css.map": "/pchelka/static/css/main.bdf4e35d.css.map",
+    "main.19132baa.js.map": "/pchelka/static/js/main.19132baa.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c8b8d3b.css",
-    "static/js/main.6d444273.js"
+    "static/css/main.bdf4e35d.css",
+    "static/js/main.19132baa.js"
   ]
 }
