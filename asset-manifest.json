@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/market-pchel3/static/css/main.386926cb.css",
-    "main.js": "/market-pchel3/static/js/main.719262a8.js",
-    "static/media/100.jpg": "/market-pchel3/static/media/100.9f36d0f9d8bff3303db9.jpg",
-    "index.html": "/market-pchel3/index.html",
-    "main.386926cb.css.map": "/market-pchel3/static/css/main.386926cb.css.map",
-    "main.719262a8.js.map": "/market-pchel3/static/js/main.719262a8.js.map"
+    "main.css": "/market-pchelka/static/css/main.c53ee992.css",
+    "main.js": "/market-pchelka/static/js/main.719262a8.js",
+    "static/media/100.jpg": "/market-pchelka/static/media/100.9f36d0f9d8bff3303db9.jpg",
+    "index.html": "/market-pchelka/index.html",
+    "main.c53ee992.css.map": "/market-pchelka/static/css/main.c53ee992.css.map",
+    "main.719262a8.js.map": "/market-pchelka/static/js/main.719262a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.386926cb.css",
+    "static/css/main.c53ee992.css",
     "static/js/main.719262a8.js"
   ]
 }
